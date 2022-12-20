@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e5bccf9751d54444acb6d8bea432c22, type: 3}
+  m_Name: Buff_Pineapple
+  m_EditorClassIdentifier: 
+  HealthAmmount: 0
+  ShieldAmmount: 0
+  HealthRegen: 40
+  RegenTime: 15
+  Dmg: 1.3
+  DmgTime: 90
+  AtkSpeed: 0
+  ASTime: 0
+  Speed: 0
+  SpeedTime: 0
+  Special: []
